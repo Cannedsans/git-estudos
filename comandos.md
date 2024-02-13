@@ -91,4 +91,8 @@ e caso queira deletar, coloque um -d ou D no comando de criar
 
 agora hora da fusão! 
 
-    git 
+vá para a main de *DESTINO* e execute o seguinte código
+
+    git merge branch
+
+e todos os arquivos dessas branchs irão para a main 
