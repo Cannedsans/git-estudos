@@ -65,3 +65,9 @@ Para quando queira retirar as alterações de um commit passado use
     git revert id_do_ponto
 
 *Atenção isso está sujeito a conflitos* e caso use o --hard ele apaga as alterações do futuro já feitas 
+
+## Ignorar arquivos 
+
+As vezes não queremos que um arquivo seja mandado para os comits como .env então como podemos evitar isso? 
+
+Criando o .gitignore! os arquivos listados dentro dele serão iginorados pelo git e não irão ser versionados 
