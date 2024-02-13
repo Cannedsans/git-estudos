@@ -47,3 +47,13 @@ ele vai colocar esses arquivos no palco, prontos para o commit (se por ponto ou 
 Digamos que depois que fiz meu commit eu queira ver quais foram feitos, para isso usamos o:
 
     git log --oneline
+
+## Trocar de ponto 
+
+Para acessar um ponto anterior na linha do tempo precisa dar um checkout 
+
+    git checkout id_do_ponto
+
+e claro depois de ir para o ponto e queira voltar para a verão mais rescente pode usar o checkout 
+
+    git checkout nome_Branch
