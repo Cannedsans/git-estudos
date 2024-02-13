@@ -71,3 +71,14 @@ Para quando queira retirar as alterações de um commit passado use
 As vezes não queremos que um arquivo seja mandado para os comits como .env então como podemos evitar isso? 
 
 Criando o .gitignore! os arquivos listados dentro dele serão iginorados pelo git e não irão ser versionados 
+
+## adicionando uma branch 
+
+para ver as branchs precisamos usar o 
+
+    git branch 
+
+porém depois se quisermos cirar uma nova agente escreve 
+
+    git branch nome_dela
+
