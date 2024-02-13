@@ -82,3 +82,6 @@ porém depois se quisermos cirar uma nova agente escreve
 
     git branch nome_dela
 
+e para trocar o checkout também, funciona 
+
+    git checkout Nome_branch
