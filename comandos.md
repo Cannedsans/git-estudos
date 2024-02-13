@@ -64,4 +64,4 @@ Para quando queira retirar as alterações de um commit passado use
 
     git revert id_do_ponto
 
-*Atenção isso está sujeito a conflitos*
+*Atenção isso está sujeito a conflitos* e caso use o --hard ele apaga as alterações do futuro já feitas 
