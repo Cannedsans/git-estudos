@@ -85,3 +85,10 @@ porém depois se quisermos cirar uma nova agente escreve
 e para trocar o checkout também, funciona 
 
     git checkout Nome_branch
+
+
+e caso queira deletar, coloque um -d ou D no comando de criar 
+
+agora hora da fusão! 
+
+    git 
