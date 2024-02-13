@@ -57,3 +57,11 @@ Para acessar um ponto anterior na linha do tempo precisa dar um checkout
 e claro depois de ir para o ponto e queira voltar para a verão mais rescente pode usar o checkout 
 
     git checkout nome_Branch
+
+## Reverter alterações 
+
+Para quando queira retirar as alterações de um commit passado use 
+
+    git revert id_do_ponto
+
+*Atenção isso está sujeito a conflitos*
