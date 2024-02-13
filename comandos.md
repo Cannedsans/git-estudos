@@ -46,4 +46,4 @@ ele vai colocar esses arquivos no palco, prontos para o commit (se por ponto ou 
 
 Digamos que depois que fiz meu commit eu queira ver quais foram feitos, para isso usamos o:
 
-    git log 
+    git log --oneline
