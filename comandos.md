@@ -41,3 +41,9 @@ ele vai colocar esses arquivos no palco, prontos para o commit (se por ponto ou 
     git commit -m "Sua mensagem aqui"
 
 -m é um parametro opicional que irá adicionar uma mensagem descritiva sobre o commit
+
+## Histórioco de commits 
+
+Digamos que depois que fiz meu commit eu queira ver quais foram feitos, para isso usamos o:
+
+    git log 
