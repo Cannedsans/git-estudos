@@ -96,3 +96,4 @@ vá para a main de *DESTINO* e execute o seguinte código
     git merge branch
 
 e todos os arquivos dessas branchs irão para a main 
+em caso de conflitos quando for dar o merge o git ira mostrar os 2 códigos dentro do arquivo em conflito, resolva manualmente e quando terminar pode dar um commit sem a mensaguem
