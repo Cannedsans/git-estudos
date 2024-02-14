@@ -7,7 +7,7 @@
    - [X] Saber como resolver conflitos no git 
    - [X] Por fim aprender a fazer tudo isso pelo *VS CODE*
 
-## COMMIt 
+## COMMIT
 
 O commit é um "Marco" na linha do tempo do seu código
 
