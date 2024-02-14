@@ -13,3 +13,7 @@ pegue o arquivo que terminar com .pub usando
     cat nomeDoArquivo.pub
 
 e no terminal copie a chave e vá em criar nova conexão ssh, lá cole sua chave e de um nome para a conexão apó essa etapa o GitHub estará conectado 
+
+## Pull request 
+
+as requisisções servem para quando uma brach nova ser criada o dono do repositórido analizar antes de dar uma merge e evitar que códigos incompletos sejam enviados 
