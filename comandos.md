@@ -96,4 +96,33 @@ vá para a main de *DESTINO* e execute o seguinte código
     git merge branch
 
 e todos os arquivos dessas branchs irão para a main 
-em caso de conflitos quando for dar o merge o git ira mostrar os 2 códigos dentro do arquivo em conflito, resolva manualmente e quando terminar pode dar um commit sem a mensaguem
+em caso de conflitos quando for dar o merge o git ira mostrar os 2 códigos dentro do arquivo em conflito, resolva manualmente e quando terminar pode dar um commit sem a mensagem
+
+## GITHUB 
+
+Após a confuguração do *SSH* para mandar tudo para um repositório já existente digite 
+
+    git push link_do_repositório.git branch 
+
+em seguida após informar o repositório e a branch ele será upado no GitHub e agora tudo que foi feito será sincronizado porém toda vez que for atualizar o código 
+
+    git remote add nome link_do_repositório.git 
+
+para criar um alias para não ter que ficar dando push toda hora e para verificar se está funcionando 
+
+    git remote -v
+
+e não se esqueça, para sincronizar com alterações vindas do GitHub use o comando 
+
+    git pull origin branch
+
+Esse origin foi criado altomaticamente quando se conectou o repositório sendo o seu nome 
+
+## Clonar 
+
+Caso tenha um projeto no GitHub e queira conectar ele no seu computador user o comando clone 
+
+    git clone link_do_repositório.git 
+
+e caso queria modificar o nome da pasta criada apenas adicione o nome após o link
+
