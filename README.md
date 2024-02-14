@@ -1,11 +1,11 @@
 # Estudo de git
 
 ### Objetivos:
-   - [ ] Apreder a criar um repositório sincronizado ao GITHUB
+   - [X] Apreder a criar um repositório sincronizado ao GITHUB
    - [X] Aprender a criar branches de forma consiente 
    - [X] Juntar branches da forma correta sem confusão
    - [X] Saber como resolver conflitos no git 
-   - [ ] Por fim aprender a fazer tudo isso pelo *VS CODE*
+   - [X] Por fim aprender a fazer tudo isso pelo *VS CODE*
 
 ## COMMIt 
 

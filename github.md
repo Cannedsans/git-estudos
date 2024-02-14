@@ -16,4 +16,4 @@ e no terminal copie a chave e vá em criar nova conexão ssh, lá cole sua chave
 
 ## Pull request 
 
-as requisisções servem para quando uma brach nova ser criada o dono do repositórido analizar antes de dar uma merge e evitar que códigos incompletos sejam enviados 
+as requisisções servem para quando uma brach nova ser criada o dono do repositórido analizar antes de dar uma merge e evitar que códigos incompletos sejam enviados e você pode fazer isso para o repositório de outras pessoas, com a permissão do dono você passa a ser um contribuente do projeto
